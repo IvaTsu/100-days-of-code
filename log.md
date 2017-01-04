@@ -13,7 +13,7 @@
 
 **Today's Progress**: I've almost done with API parser on FreeCodeCamp's Weather App. Currently I have parsed weather conditions
 
-**Thoughts** I thought that this part will be oe of the most easier. I was wrong :)
+**Thoughts** I thought that this part will be one of the most easier. I was wrong :)
 
 **Link(s) to work**
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
