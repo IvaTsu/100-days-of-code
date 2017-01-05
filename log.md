@@ -17,3 +17,10 @@
 
 **Link(s) to work**
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
+
+### Day 3: January 5, Thursday
+
+**Today's Progress**: I've done with API parser on FreeCodeCamp's Weather App. Started with styling.
+
+**Link(s) to work**
+1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
