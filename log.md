@@ -24,3 +24,12 @@
 
 **Link(s) to work**
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
+
+### Day 4: January 6, Friday
+
+**Today's Progress**: Worked on design of the app.
+
+**Thoughts** Easy :) Just Styling around
+
+**Link(s) to work**
+1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
