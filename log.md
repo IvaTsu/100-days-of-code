@@ -33,3 +33,12 @@
 
 **Link(s) to work**
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
+
+### Day 5: January 7, Saturday
+
+**Today's Progress**: Finished with styling
+
+**Thoughts** Yeah! Almost done! The responsive design needs to be done
+
+**Link(s) to work**
+1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
