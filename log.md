@@ -42,3 +42,13 @@
 
 **Link(s) to work**
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
+
+### Day 6: January 8, Sunday
+
+**Today's Progress**: Finished with Weather App for FCC
+
+**Thoughts** Yeah! All is done! Check it out.
+
+**Link(s) to work**
+1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
+2. [The Local Weather App Live](https://ivatsu.github.io/Local-Weather-App/)
