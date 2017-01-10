@@ -53,7 +53,7 @@
 1. [The Local Weather App](https://github.com/IvaTsu/Local-Weather-App)
 2. [The Local Weather App Live](https://ivatsu.github.io/Local-Weather-App/)
 
-### Day 7: January 9, Sunday
+### Day 7: January 9, Monday
 
 **Today's Progress**: Started with Wikipedia Viewer App for FCC
 
@@ -61,3 +61,13 @@
 
 **Link(s) to work**
 1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
+
+### Day 8: January 10, Tuesday
+
+**Today's Progress**: Formed API from Wiki. 
+
+**Thoughts** Oh! Wikipedia API. 
+
+**Link(s) to work**
+1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
+
