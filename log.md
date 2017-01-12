@@ -71,9 +71,18 @@
 **Link(s) to work**
 1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
 
-### Day 9: January 11, Thursday
+### Day 9: January 11, Wednesday
 
 **Today's Progress**: Main functionality biult. 
+
+**Thoughts** All is going great. 
+
+**Link(s) to work**
+1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
+
+### Day 10: January 12, Thursday
+
+**Today's Progress**: Worked on app design.
 
 **Thoughts** All is going great. 
 
