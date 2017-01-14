@@ -107,11 +107,3 @@
 **Link(s) to work**
 1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
 2. [The Wikipeadi Viewer Live](### Day 11: January 13, Friday
-
-**Today's Progress**: Worked on app design.
-
-**Thoughts** It would be great if I had good design skills. 
-
-**Link(s) to work**
-1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
-
