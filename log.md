@@ -107,3 +107,10 @@
 **Link(s) to work**
 1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
 2. [The Wikipeadi Viewer Live](https://ivatsu.github.io/Wikipedia-Viewer)
+
+### Day 13: January 15, Sunday
+
+**Today's Progress**: Started with Twitchtv JSON API.
+
+**Link(s) to work**
+1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
