@@ -114,3 +114,11 @@
 
 **Link(s) to work**
 1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
+
+### Day 14: January 16, Monday
+
+**Today's Progress**: Done the major part with Twitchtv JSON API.
+
+**Link(s) to work**
+1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
+
