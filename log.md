@@ -122,3 +122,6 @@
 **Link(s) to work**
 1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
 
+### Day 15: January 18, Wednesday
+
+**Today's Progress**: Worked on ReactJS  
