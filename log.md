@@ -125,3 +125,12 @@
 ### Day 15: January 18, Wednesday
 
 **Today's Progress**: Worked on ReactJS  
+
+### Day 16: January 28, Friday
+
+**Today's Progress**: Have implemented authorization with Google API for the Android app and coding web form with Pug & Sass
+
+**Thoughts** I had a non-tracked coding for 10 days, so there is no result here.
+
+**Link(s) to work**
+1. [The web-form](http://codepen.io/IvTs/pen/rLOBpw?editors=1100#0)
