@@ -134,3 +134,14 @@
 
 **Link(s) to work**
 1. [The web-form](http://codepen.io/IvTs/pen/rLOBpw?editors=1100#0)
+
+### Day 17: January 30, Monday
+
+**Today's Progress**: Playing with Webpack and React
+
+**Thoughts** I am trying to log my coding everyday, but fails
+
+**Link(s) to work**
+1. [Github Battle](https://github.com/IvaTsu/github-battle)
+
+
