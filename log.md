@@ -144,4 +144,13 @@
 **Link(s) to work**
 1. [Github Battle](https://github.com/IvaTsu/github-battle)
 
+### Day 18: January 31, Tuesday
+
+**Today's Progress**: Playing with React
+
+**Thoughts** One more simple project with React
+
+**Link(s) to work**
+1. [React Board](https://github.com/IvaTsu/react-board)
+
 
