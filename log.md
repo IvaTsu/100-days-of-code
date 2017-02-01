@@ -153,4 +153,6 @@
 **Link(s) to work**
 1. [React Board](https://github.com/IvaTsu/react-board)
 
+### Day 19: February 1, Wednesday
 
+**Today's Progress**: Done with Facebook Auth for Android App
