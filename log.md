@@ -156,3 +156,9 @@
 ### Day 19: February 1, Wednesday
 
 **Today's Progress**: Done with Facebook Auth for Android App
+
+### Day 20: February 9, Thursday
+
+**Today's Progress**: Done with Twitter Auth for the Android App and some corrections for projects on the CodePen
+
+**Thoughts** I am trying to log my coding everyday, but fails. Sometimes my pure coding time is not reaches 1 hour, so I do not track such days
