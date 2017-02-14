@@ -162,3 +162,14 @@
 **Today's Progress**: Done with Twitter Auth for the Android App and some corrections for projects on the CodePen
 
 **Thoughts** I am trying to log my coding everyday, but fails. Sometimes my pure coding time is not reaches 1 hour, so I do not track such days
+
+### Day 21: February 15, Wednesday
+
+**Today's Progress**: Have finished with the web form on Pug & Sass, have implemented small scripts with jQuery, have implemented functionality for the Twitch TV Freecodecamp's program.
+
+**Thoughts** Have been working on 3 projects, 2 of them are done. A lot of stuff done.
+
+**Link(s) to work**
+1. [A web-form](http://codepen.io/IvTs/pen/rLOBpw?editors=1100#0)
+2. [A jQuery Playground](https://github.com/IvaTsu/jQuery-Playground)
+3. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
