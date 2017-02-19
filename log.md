@@ -174,8 +174,12 @@
 2. [A jQuery Playground](https://github.com/IvaTsu/jQuery-Playground)
 3. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
 
-### Day 22: February 18, Friday
+### Day 22: February 17, Friday
 
 **Today's Progress**: Playing with HTML/CSS on old projects at codepen.io. Setting Gulp.js environment for the future project.
 
 **Thoughts** Have been working on 2 projects, none of them are done but a lot of stuff was done.
+
+### Day 23: February 18, Friday
+
+**Today's Progress**: Playing with Jade, Sass and Gulp.js 
