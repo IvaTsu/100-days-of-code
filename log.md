@@ -183,3 +183,10 @@
 ### Day 23: February 18, Friday
 
 **Today's Progress**: Playing with Jade, Sass and Gulp.js 
+
+### Day 24: February 23, Thursday
+
+**Today's Progress**: Working on the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
