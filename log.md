@@ -204,3 +204,10 @@
 
 **Link(s) to work**
 1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
+
+### Day 27: February 03, Friday
+
+**Today's Progress**: Completed the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
