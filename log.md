@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### Fail. One more try in 2+ weeks.
+
 ### Day 1: January 3, Tuesday
 
 **Today's Progress**: I've done some work on FreeCodeCamp's Weather App. Currently I have created HTML skeleton and project structure for the app. I also have created several functions for determination of the current user position and also got the API for that position.
