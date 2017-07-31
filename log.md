@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1 AfterFail: July 31, Monday
+
+**Today's Progress**: I've worked with React Native projects for 5hrs 17 mins according to WakaTime.
+
+**Thoughts**: Will I fall again with this challenge? =)
+
+**Link(s) to work**: Will be published when the projects will be done.
+
 ### Fail. One more try in 2+ weeks.
 
 ### Day 1: January 3, Tuesday
