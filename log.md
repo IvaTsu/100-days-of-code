@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've worked with HTML and CSS on the BRANDly landing page 3hrs 51 mins.
 
-**Thoughts**: Will I fall again with this challenge? =)
+**Thoughts**: Will I fall again with this challenge? =) Missed 1 day. No coding activity on Friday 04.08.2017. Was dealing with problems in Kyiv.
 
 **Link(s) to work**: [BRANDly](https://github.com/IvaTsu/BRANDly)
 
