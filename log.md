@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5 AfterFail: August 5, Saturday
+
+**Today's Progress**: I've worked with HTML and CSS on the BRANDly landing page 3hrs 51 mins.
+
+**Thoughts**: Will I fall again with this challenge? =)
+
+**Link(s) to work**: [BRANDly](https://github.com/IvaTsu/BRANDly)
+
 ### Day 4 AfterFail: August 3, Thursday
 
 **Today's Progress**: I've worked with React Native projects for 1hr 48 mins.
