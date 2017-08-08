@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6 AfterFail: August 8, Monday
+
+**Today's Progress**: I've worked with React Native projects for 3hr 12 mins.
+
+**Thoughts**: Will I fall again with this challenge? =) Missed 2 days in a row. =(
+
+**Link(s) to work**: Will be published when the projects will be done.
+
 ### Day 5 AfterFail: August 5, Saturday
 
 **Today's Progress**: I've worked with HTML and CSS on the BRANDly landing page 3hrs 51 mins.
