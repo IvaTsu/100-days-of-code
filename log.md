@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 6 AfterFail: August 8, Monday
+### Day 7 AfterFail: August 9, Wednesday
+
+**Today's Progress**: I've worked with React Native projects for 1hr 8 mins.
+
+**Thoughts**: Will I fall again with this challenge? =) Started to read a book on React.
+
+**Link(s) to work**: Will be published when the projects will be done.
+
+### Day 6 AfterFail: August 8, Tuesday
 
 **Today's Progress**: I've worked with React Native projects for 3hr 12 mins.
 
