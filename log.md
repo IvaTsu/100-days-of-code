@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11 AfterFail: August 16, Wednesday
+
+**Today's Progress**: I've worked with React, jQuery projects for 5+ hours.
+
+**Thoughts**: Will I fall again with this challenge? =) Started to read a books on Clear Code. About 1 hour of reading. Things getting clear.
+
+**Link(s) to work**: Will be published when the projects will be done.
+
 ### Day 10 AfterFail: August 15, Tuesday
 
 **Today's Progress**: I've worked with React Native, React, PSD to HTML conversion projects and Node for 3 + hours.
