@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 9 AfterFail: August 14, Friday
+### Day 10 AfterFail: August 15, Tuesday
+
+**Today's Progress**: I've worked with React Native, React, PSD to HTML conversion projects and Node for 3 + hours.
+
+**Thoughts**: Will I fall again with this challenge? =) Started to read a book on React. About 1 hour of reading. Things getting clear. Commit 16.08.17 as forget to do yesterday.
+
+**Link(s) to work**: [BRANDly](https://github.com/IvaTsu/BRANDly)
+
+### Day 9 AfterFail: August 14, Monday
 
 **Today's Progress**: I've worked with React Native, React projects and Node for 3 hours.
 
