@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12 AfterFail: August 17, Thursday
+
+**Today's Progress**: I've worked on React Native project for 5+ hours.
+
+**Thoughts**: Will I fall again with this challenge? =) 
+
+**Link(s) to work**: Will be published when the projects will be done.
+
 ### Day 11 AfterFail: August 16, Wednesday
 
 **Today's Progress**: I've worked with React, jQuery projects for 5+ hours.
