@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13 AfterFail: August 21, Monday
+
+**Today's Progress**: I've worked on React Native project for 3 hours 40 mins.
+
+**Thoughts**: Have missed 3 days =( Not planned to do so. It is because of important obstacles.
+
+**Link(s) to work**: [Currency Converter](https://github.com/IvaTsu/CurrencyConverter)
+
 ### Day 12 AfterFail: August 17, Thursday
 
 **Today's Progress**: I've worked on React Native project for 5+ hours.
