@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 13 AfterFail: August 26, Saturday
+### Day 16 AfterFail: August 27, Sunday
+
+**Today's Progress**: I've worked on React Native project for 4 hours 36 mins.
+
+**Link(s) to work**: Will be published when the projects will be done.
+
+
+### Day 15 AfterFail: August 26, Saturday
 
 **Today's Progress**: I've worked on React Native project for 1 hour.
 
@@ -127,83 +134,6 @@
 
 
 
-
-
-
-### Day 11: January 13, Friday
-
-**Today's Progress**: Worked on app design.
-
-**Thoughts** It would be great if I had good design skills. 
-
-**Link(s) to work**
-1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
-
-### Day 12: January 14, Saturday
-
-**Today's Progress**: Done with the Wikipedia Viewer.
-
-**Thoughts** All is going great. 
-
-**Link(s) to work**
-1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
-2. [The Wikipeadi Viewer Live](https://ivatsu.github.io/Wikipedia-Viewer)
-
-### Day 13: January 15, Sunday
-
-**Today's Progress**: Started with Twitchtv JSON API.
-
-**Link(s) to work**
-1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
-
-### Day 14: January 16, Monday
-
-**Today's Progress**: Done the major part with Twitchtv JSON API.
-
-**Link(s) to work**
-1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
-
-### Day 15: January 18, Wednesday
-
-**Today's Progress**: Worked on ReactJS  
-
-### Day 16: January 28, Friday
-
-**Today's Progress**: Have implemented authorization with Google API for the Android app and coding web form with Pug & Sass
-
-**Thoughts** I had a non-tracked coding for 10 days, so there is no result here.
-
-**Link(s) to work**
-1. [The web-form](http://codepen.io/IvTs/pen/rLOBpw?editors=1100#0)
-
-### Day 17: January 30, Monday
-
-**Today's Progress**: Playing with Webpack and React
-
-**Thoughts** I am trying to log my coding everyday, but fails
-
-**Link(s) to work**
-1. [Github Battle](https://github.com/IvaTsu/github-battle)
-
-### Day 18: January 31, Tuesday
-
-**Today's Progress**: Playing with React
-
-**Thoughts** One more simple project with React
-
-**Link(s) to work**
-1. [React Board](https://github.com/IvaTsu/react-board)
-
-### Day 19: February 1, Wednesday
-
-**Today's Progress**: Done with Facebook Auth for Android App
-
-### Day 20: February 9, Thursday
-
-**Today's Progress**: Done with Twitter Auth for the Android App and some corrections for projects on the CodePen
-
-**Thoughts** I am trying to log my coding everyday, but fails. Sometimes my pure coding time is not reaches 1 hour, so I do not track such days
-
 ### Day 21: February 15, Wednesday
 
 **Today's Progress**: Have finished with the web form on Pug & Sass, have implemented small scripts with jQuery, have implemented functionality for the Twitch TV Freecodecamp's program.
@@ -253,6 +183,91 @@
 **Link(s) to work**
 1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
 ---
+
+
+
+### Day 20: February 9, Thursday
+
+**Today's Progress**: Done with Twitter Auth for the Android App and some corrections for projects on the CodePen
+
+**Thoughts** I am trying to log my coding everyday, but fails. Sometimes my pure coding time is not reaches 1 hour, so I do not track such days
+
+
+### Day 19: February 1, Wednesday
+
+**Today's Progress**: Done with Facebook Auth for Android App
+
+
+### Day 18: January 31, Tuesday
+
+**Today's Progress**: Playing with React
+
+**Thoughts** One more simple project with React
+
+**Link(s) to work**
+1. [React Board](https://github.com/IvaTsu/react-board)
+
+
+### Day 17: January 30, Monday
+
+**Today's Progress**: Playing with Webpack and React
+
+**Thoughts** I am trying to log my coding everyday, but fails
+
+**Link(s) to work**
+1. [Github Battle](https://github.com/IvaTsu/github-battle)
+
+
+### Day 16: January 28, Friday
+
+**Today's Progress**: Have implemented authorization with Google API for the Android app and coding web form with Pug & Sass
+
+**Thoughts** I had a non-tracked coding for 10 days, so there is no result here.
+
+**Link(s) to work**
+1. [The web-form](http://codepen.io/IvTs/pen/rLOBpw?editors=1100#0)
+
+
+### Day 15: January 18, Wednesday
+
+**Today's Progress**: Worked on ReactJS  
+
+
+### Day 14: January 16, Monday
+
+**Today's Progress**: Done the major part with Twitchtv JSON API.
+
+**Link(s) to work**
+1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
+
+
+### Day 13: January 15, Sunday
+
+**Today's Progress**: Started with Twitchtv JSON API.
+
+**Link(s) to work**
+1. [Twitchtv JSON API](http://codepen.io/IvTs/pen/rjMmxg)
+
+
+### Day 12: January 14, Saturday
+
+**Today's Progress**: Done with the Wikipedia Viewer.
+
+**Thoughts** All is going great. 
+
+**Link(s) to work**
+1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
+2. [The Wikipeadi Viewer Live](https://ivatsu.github.io/Wikipedia-Viewer)
+
+
+### Day 11: January 13, Friday
+
+**Today's Progress**: Worked on app design.
+
+**Thoughts** It would be great if I had good design skills. 
+
+**Link(s) to work**
+1. [The Wikipedia Viewer App](https://github.com/IvaTsu/Wikipedia-Viewer)
 
 
 ### Day 10: January 12, Thursday
