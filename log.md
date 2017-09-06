@@ -1,13 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 16 AfterFail: August 27, Sunday
+
+### Day 44: September 05, Tuesday
+
+**Today's Progress**: I've worked on React project for 1 hour.
+
+**Link(s) to work**: [Vote App](https://github.com/IvaTsu/vote-app)
+
+
+### Day 43: August 27, Sunday
 
 **Today's Progress**: I've worked on React Native project for 4 hours 36 mins.
 
 **Link(s) to work**: Will be published when the projects will be done.
 
 
-### Day 15 AfterFail: August 26, Saturday
+### Day 42: August 26, Saturday
 
 **Today's Progress**: I've worked on React Native project for 1 hour.
 
@@ -16,7 +24,7 @@
 **Link(s) to work**: Will be published when the projects will be done.
 
 
-### Day 14 AfterFail: August 25, Friday
+### Day 41: August 25, Friday
 
 **Today's Progress**: I've worked on React Native project for 3 hours 40 mins.
 
@@ -25,7 +33,7 @@
 **Link(s) to work**: Will be published when the projects will be done.
 
 
-### Day 13 AfterFail: August 21, Monday
+### Day 40: August 21, Monday
 
 **Today's Progress**: I've worked on React Native project for 3 hours 40 mins.
 
@@ -33,7 +41,8 @@
 
 **Link(s) to work**: [Currency Converter](https://github.com/IvaTsu/CurrencyConverter)
 
-### Day 12 AfterFail: August 17, Thursday
+
+### Day 39: August 17, Thursday
 
 **Today's Progress**: I've worked on React Native project for 5+ hours.
 
@@ -41,7 +50,8 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 11 AfterFail: August 16, Wednesday
+
+### Day 38: August 16, Wednesday
 
 **Today's Progress**: I've worked with React, jQuery projects for 5+ hours.
 
@@ -49,7 +59,8 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 10 AfterFail: August 15, Tuesday
+
+### Day 37: August 15, Tuesday
 
 **Today's Progress**: I've worked with React Native, React, PSD to HTML conversion projects and Node for 3 + hours.
 
@@ -57,7 +68,8 @@
 
 **Link(s) to work**: [BRANDly](https://github.com/IvaTsu/BRANDly)
 
-### Day 9 AfterFail: August 14, Monday
+
+### Day 36: August 14, Monday
 
 **Today's Progress**: I've worked with React Native, React projects and Node for 3 hours.
 
@@ -65,7 +77,8 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 8 AfterFail: August 11, Friday
+
+### Day 35: August 11, Friday
 
 **Today's Progress**: I've worked with React Native projects for 5 hours almost.
 
@@ -73,7 +86,8 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 7 AfterFail: August 9, Wednesday
+
+### Day 34: August 9, Wednesday
 
 **Today's Progress**: I've worked with React Native projects for 1hr 8 mins.
 
@@ -81,7 +95,9 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 6 AfterFail: August 8, Tuesday
+
+
+### Day 33: August 8, Tuesday
 
 **Today's Progress**: I've worked with React Native projects for 3hr 12 mins.
 
@@ -89,7 +105,9 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 5 AfterFail: August 5, Saturday
+
+
+### Day 32: August 5, Saturday
 
 **Today's Progress**: I've worked with HTML and CSS on the BRANDly landing page 3hrs 51 mins.
 
@@ -97,7 +115,9 @@
 
 **Link(s) to work**: [BRANDly](https://github.com/IvaTsu/BRANDly)
 
-### Day 4 AfterFail: August 3, Thursday
+
+
+### Day 31: August 3, Thursday
 
 **Today's Progress**: I've worked with React Native projects for 1hr 48 mins.
 
@@ -106,7 +126,7 @@
 **Link(s) to work**: Will be published when the projects will be done.
 
 
-### Day 3 AfterFail: August 2, Wednesday
+### Day 30: August 2, Wednesday
 
 **Today's Progress**: I've worked with React Native projects for 2hrs 11 mins.
 
@@ -114,7 +134,8 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 2 AfterFail: August 1, Tuesday
+
+### Day 29: August 1, Tuesday
 
 **Today's Progress**: I've worked with React Native projects for 1hr 19 mins.
 
@@ -122,7 +143,9 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Day 1 AfterFail: July 31, Monday
+
+
+### Day 28: July 31, Monday
 
 **Today's Progress**: I've worked with React Native projects for 5hrs 17 mins according to WakaTime.
 
@@ -130,8 +153,49 @@
 
 **Link(s) to work**: Will be published when the projects will be done.
 
-### Fail. One more try in 2+ weeks.
 
+### Day 27: February 03, Friday
+
+**Today's Progress**: Completed the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
+
+
+### Day 26: February 28, Tuesday
+
+**Today's Progress**: Worked on the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
+
+
+### Day 25: February 27, Monday
+
+**Today's Progress**: Worked on the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
+
+
+### Day 24: February 23, Thursday
+
+**Today's Progress**: Working on the Twitch TV Freecodecamp's program.
+
+**Link(s) to work**
+1. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
+
+
+### Day 23: February 18, Friday
+
+**Today's Progress**: Playing with Jade, Sass and Gulp.js 
+
+
+### Day 22: February 17, Friday
+
+**Today's Progress**: Playing with HTML/CSS on old projects at codepen.io. Setting Gulp.js environment for the future project.
+
+**Thoughts** Have been working on 2 projects, none of them are done but a lot of stuff was done.
 
 
 ### Day 21: February 15, Wednesday
@@ -145,53 +209,13 @@
 2. [A jQuery Playground](https://github.com/IvaTsu/jQuery-Playground)
 3. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
 
-### Day 22: February 17, Friday
-
-**Today's Progress**: Playing with HTML/CSS on old projects at codepen.io. Setting Gulp.js environment for the future project.
-
-**Thoughts** Have been working on 2 projects, none of them are done but a lot of stuff was done.
-
-### Day 23: February 18, Friday
-
-**Today's Progress**: Playing with Jade, Sass and Gulp.js 
-
-### Day 24: February 23, Thursday
-
-**Today's Progress**: Working on the Twitch TV Freecodecamp's program.
-
-**Link(s) to work**
-1. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
-
-### Day 25: February 27, Monday
-
-**Today's Progress**: Worked on the Twitch TV Freecodecamp's program.
-
-**Link(s) to work**
-1. [A Twitch TV](http://codepen.io/IvTs/pen/rjMmxg)
-
-### Day 26: February 28, Tuesday
-
-**Today's Progress**: Worked on the Twitch TV Freecodecamp's program.
-
-**Link(s) to work**
-1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
-
-### Day 27: February 03, Friday
-
-**Today's Progress**: Completed the Twitch TV Freecodecamp's program.
-
-**Link(s) to work**
-1. [A Twitch TV](http://codepen.io/IvTs/full/rjMmxg/)
----
-
-
 
 ### Day 20: February 9, Thursday
 
 **Today's Progress**: Done with Twitter Auth for the Android App and some corrections for projects on the CodePen
 
 **Thoughts** I am trying to log my coding everyday, but fails. Sometimes my pure coding time is not reaches 1 hour, so I do not track such days
----
+
 
 ### Day 19: February 1, Wednesday
 
