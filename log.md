@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: September 08, Friday
+
+**Today's Progress**: I've worked on React project and some other stuff.
+
+**Link(s) to work**: [Vote App](https://github.com/IvaTsu/vote-app)
+
 
 ### Day 44: September 05, Tuesday
 
