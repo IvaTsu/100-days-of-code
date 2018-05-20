@@ -29,3 +29,13 @@
 **Link(s) to work**: 
 - [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
 - [Drum Kit](https://github.com/IvaTsu/drum-kit)
+
+### Day 3: 20.05.2018 (Sun, May)
+
+**Today's Progress**: Working on Let's Do Smth React App. Adding more features to the app. Added ESlint. Working on functional part. Added all possible buttons support for Drum Kit. Also now the audio name is displayed.
+
+**Thoughts**: Done with basics for React Boilerplate. It is fast, with hot reload. Thinking on new features for the Drum Kit.
+
+**Link(s) to work**: 
+- [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
+- [Drum Kit](https://github.com/IvaTsu/drum-kit)
