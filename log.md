@@ -39,3 +39,14 @@
 **Link(s) to work**: 
 - [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
 - [Drum Kit](https://github.com/IvaTsu/drum-kit)
+
+### Day 4: 21.05.2018 (Mon, May)
+
+**Today's Progress**: Started work on Node. Started an API project. Done basic init. Working on Let's Do Smth React App. Adding more features to the app. Working on functional part. Now it is possible to add a new task. Done Props validation.
+
+**Thoughts**: Confusing Node and REST.
+
+**Link(s) to work**:
+- [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
+- [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
+
