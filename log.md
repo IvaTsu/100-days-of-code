@@ -53,9 +53,9 @@
 
 ### Day 5: 22.05.2018 (Tue, May)
 
-**Today's Progress**: Continue work on Node. Set up and run server with `express` and `nodemon`. Added `.sass` files support for `Let's Do Smth`.
+**Today's Progress**: Continue work on Node. Set up and run server with `express` and `nodemon`. Added `.sass` files support for `Let's Do Smth`. Added a new functionality for the `Drum Kit`: after button pressed, the info displays for 1.5 sec.
 
-**Thoughts**: Figuring out Node and REST API. It is needed to add `ESlint`, `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app.
+**Thoughts**: Figuring out Node and REST API. It is needed to add `ESlint`, `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app. Needs to add all other buttons even without sound for `Drum Kit`. 
 
 **Link(s) to work**:
 - [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
