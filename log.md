@@ -53,8 +53,9 @@
 
 ### Day 5: 22.05.2018 (Tue, May)
 
-**Today's Progress**: Continue work on Node. Set up and run server with `express` and `nodemon`.
-**Thoughts**: Figuring out Node and REST API.
+**Today's Progress**: Continue work on Node. Set up and run server with `express` and `nodemon`. Added `.sass` files support for `Let's Do Smth`.
+
+**Thoughts**: Figuring out Node and REST API. It is needed to add `ESlint`, `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app.
 
 **Link(s) to work**:
 - [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
