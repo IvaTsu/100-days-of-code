@@ -51,3 +51,12 @@
 - [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
 - [Drum Kit](https://github.com/IvaTsu/drum-kit)
 
+### Day 5: 22.05.2018 (Tue, May)
+
+**Today's Progress**: Continue work on Node. Set up and run server with `express` and `nodemon`.
+**Thoughts**: Figuring out Node and REST API.
+
+**Link(s) to work**:
+- [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
+- [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
+- [Drum Kit](https://github.com/IvaTsu/drum-kit)
