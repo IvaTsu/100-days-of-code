@@ -66,8 +66,9 @@
 
 **Today's Progress**: 
 1. Continue work on Node. Set up `Schema` with `mongoose`.
-
-**Thoughts**: Figuring out Node and REST API. All is good so far. It is needed to add `ESlint`, `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app. Needs to add all other buttons even without sound for `Drum Kit`. 
+2. Added `ESlint` support to the setup. Adding more features to the app.
+3. Added other buttons even without sound for `Drum Kit`.
+**Thoughts**: Figuring out Node and REST API. All is good so far. It is needed to add `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app. Needs to find and add more sounds.
 
 **Link(s) to work**:
 1. [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
