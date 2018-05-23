@@ -61,3 +61,16 @@
 - [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
 - [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
 - [Drum Kit](https://github.com/IvaTsu/drum-kit)
+
+### Day 6: 23.05.2018 (Wed, May)
+
+**Today's Progress**: 
+1. Continue work on Node. Set up `Schema` with `mongoose`.
+
+**Thoughts**: Figuring out Node and REST API. All is good so far. It is needed to add `ESlint`, `dev` and `build` configs, `.babelrc` file to the setup of `Let's Do Smth` app. Needs to add all other buttons even without sound for `Drum Kit`. 
+
+**Link(s) to work**:
+1. [TODO RESTful API](https://github.com/IvaTsu/todo-restful-api)
+2. [Let's do smth](https://github.com/IvaTsu/lets-do-smth)
+3. [Drum Kit](https://github.com/IvaTsu/drum-kit)
+
